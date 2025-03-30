@@ -1,0 +1,15 @@
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\repository\OrderRepository.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\service\OrderService.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\Customer.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\enums\OrderStatus.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\repository\AssetRepository.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\repository\CustomerRepository.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\controller\UserCtrl.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\controller\OrderCtrl.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\controller\AdminCtrl.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\security\SecurityConfig.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\Asset.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\BrokerageApplication.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\enums\Role.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\Order.java
+C:\Users\iTopya\Desktop\brokerageApp\src\main\java\com\brokerage\domain\enums\OrderSide.java
