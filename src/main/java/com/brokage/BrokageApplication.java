@@ -7,9 +7,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EntityScan(basePackages = "com.brokage.domain")  // Ensure entity package is scanned
-@EnableJpaRepositories(basePackages = "com.brokage.repository")  // Ensure repository package is scanned
-@ComponentScan(basePackages = "com.brokage")  // Ensure components (services, controllers) are scanned
+@EntityScan(basePackages = "com.brokage.domain")
+@EnableJpaRepositories(basePackages = "com.brokage.repository")
+@ComponentScan(basePackages = "com.brokage")
 public class BrokageApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BrokageApplication.class, args);
