@@ -44,7 +44,11 @@ public class AdminCtrl {
 
     @PutMapping("/match")
     public ResponseEntity<String> matchOrders() {
-        // Implement order matching logic here
+        // -> Not Enough time to implement
+        //My logic is -> getting admin user detail from spring sec context
+        //If requested User is admin continue or throw exception to not allow continue without admin user access
+        //OrderService -> create Method matchOrders() and call - Parameters can be by User and Order which is effect to calculate asset size-usable size decrease and set statuses to match.
+        // Operation should be @Transactional
         return ResponseEntity.ok("Orders matched successfully.");
     }
 
