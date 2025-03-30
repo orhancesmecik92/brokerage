@@ -24,3 +24,7 @@ http://localhost:"port"/h2-console
 jdbc:h2:mem:testdb
 Username: sa
 Password: (leave empty)
+
+### Postman calls 
+user & password required and same
+BasicAuth Username & Password should enter before call APIs
