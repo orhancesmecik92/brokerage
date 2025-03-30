@@ -1,10 +1,10 @@
-package com.brokage;
+package com.brokerage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BrokageApplicationTests {
+class brokerageApplicationTests {
 
 
 }
